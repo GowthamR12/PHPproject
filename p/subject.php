@@ -30,6 +30,7 @@ if(isset($_POST["submit"]))
 <li><a href="video.php">MATERIALS</a></li>
 <li><a href="assignment.php">ASSIGNMENT</a></li>
 <li><a href="quiz.php">Quiz</a></li>
+<li><a href="http://localhost:9966/#init">VIDEO CONFERENCE</a></li>
 <br>
 <br>
 <?php
